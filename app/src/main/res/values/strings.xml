@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Personnel Assistant</string>
+    <string name="image">image</string>
+    <string name="string_image">image1</string>
+    <string name="register_login">Register</string>
+    <string name="sign_in_login">Sign In</string>
+    <string name="description_background_main_page">Background_image_mainPage</string>
+    <string name="User_Email">Email</string>
+    <string name="password_loginpage">Password</string>
+    <string name="sign_out_user">Sign Out</string>
+    <string name="phone_no">Phone No.</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="home_menu">Home</string>
+    <string name="contacts_menu">Contacts</string>
+    <string name="passwords_menu">Passwords</string>
+    <string name="places_menu">Places</string>
+    <string name="profile_navHeader">Profile</string>
+    <string name="start">Start</string>
+    <string name="end">End</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ContactFragment">hello Contact fragment</string>
+    <string name="placesFragment">hello places fragment</string>
+    <string name="passwordFragment">hello password fragment</string>
+    <string name="add_password">Add Password</string>
+    <string name="add_places">Add Places</string>
+    <string name="add_contacts">Add Contacts</string>
+    <string name="add_data">Add data</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="tag_line2">Just Swipe around And Foget those Old BULKY!! Diaries</string>
+    <string name="intro">I am your Personal Assistant</string>
+    <string name="welcome">WELCOME!!</string>
+    <string name="desc">Here you can Store anything from Passwords to Adresses</string>
+</resources>
